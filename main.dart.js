@@ -51213,7 +51213,7 @@ if(n==null)n=l
 else{n=n.b
 if(n==null)n=l
 else{n=n.d
-n=n==null?l:A.l.gq(n).R8}}j=B.f(B.a([o,B.f(B.a([p,A.A,B.M(B.a([j,B.n(B.aVY(n==null?"_":n),l,l,B.k().$1$textStyle(A.tj),l)],r),A.aM,A.r,A.o)],r),A.q,l,A.r,A.o)],r),A.q,l,A.b9,A.o)}r=B.M(B.a([B.eK(B.M(B.a([s,q,j],r),A.q,A.r,A.o),A.TO,A.bh,k,l,A.Xl),B.q(B.i5(B.M(B.a([B.K(l,B.f(B.a([B.n("Relat\xf3rios",l,l,B.k().$1$textStyle(A.ff),l),B.f(B.a([B.bi(!1,!0,B.K(l,B.ao("assets/icon/printer.png",l,20),A.E,l,l,l,l,l,l,A.eQ,l,l,l),l,!0,l,l,l,l,l,l,l,l,l,new B.a64(m,a),l,l,l,l,l),A.dh,B.bi(!1,!0,B.K(l,B.ao("assets/icon/refresh-2.png",l,20),A.E,l,l,l,l,l,l,A.eQ,l,l,l),l,!0,l,l,l,l,l,l,l,l,l,new B.a65(m),l,l,l,l,l)],r),A.q,l,A.r,A.o)],r),A.q,l,A.b9,A.o),A.E,l,l,l,l,l,l,A.vk,l,l,l),m.acc(),m.ae7(),m.aeI(),m.ahd(),m.acx(),m.aeP(),m.ak5(),m.aeX(),m.acp(),m.akC(),m.akA(),m.aeE(),B.K(l,B.f(B.a([B.n("Sobre a consulta",l,l,B.k().$1$textStyle(A.ff),l)],r),A.q,l,A.b9,A.o),A.E,l,l,l,l,l,l,A.vk,l,l,l),m.aha(),m.ajb(),m.aj3(),A.b0D,B.n("v. 1.1.15",l,l,B.k().$1$textStyle(A.tj),l),A.hq],r),A.q,A.r,A.o),m.e,l),1),B.K(l,B.M(B.a([B.CF(B.f(B.a([B.n("Powered by",l,l,B.k().$1$textStyle(A.b3_),l),A.A,B.M(B.a([B.ao("assets/icon/Logo.png",l,20)],r),A.q,A.bu,A.o)],r),A.q,l,A.bu,A.o),40,l),B.CF(B.f(B.a([B.K(l,l,A.E,l,l,A.oe,l,6,l,l,l,l,200)],r),A.q,l,A.bu,A.o),20,l)],r),A.q,A.r,A.o),A.E,A.P,l,l,l,l,l,l,l,l,l)],r),A.q,A.r,A.o)
+n=n==null?l:A.l.gq(n).R8}}j=B.f(B.a([o,B.f(B.a([p,A.A,B.M(B.a([j,B.n(B.aVY(n==null?"_":n),l,l,B.k().$1$textStyle(A.tj),l)],r),A.aM,A.r,A.o)],r),A.q,l,A.r,A.o)],r),A.q,l,A.b9,A.o)}r=B.M(B.a([B.eK(B.M(B.a([s,q,j],r),A.q,A.r,A.o),A.TO,A.bh,k,l,A.Xl),B.q(B.i5(B.M(B.a([B.K(l,B.f(B.a([B.n("Relat\xf3rios",l,l,B.k().$1$textStyle(A.ff),l),B.f(B.a([B.bi(!1,!0,B.K(l,B.ao("assets/icon/printer.png",l,20),A.E,l,l,l,l,l,l,A.eQ,l,l,l),l,!0,l,l,l,l,l,l,l,l,l,new B.a64(m,a),l,l,l,l,l),A.dh,B.bi(!1,!0,B.K(l,B.ao("assets/icon/refresh-2.png",l,20),A.E,l,l,l,l,l,l,A.eQ,l,l,l),l,!0,l,l,l,l,l,l,l,l,l,new B.a65(m),l,l,l,l,l)],r),A.q,l,A.r,A.o)],r),A.q,l,A.b9,A.o),A.E,l,l,l,l,l,l,A.vk,l,l,l),m.acc(),m.ae7(),m.aeI(),m.ahd(),m.acx(),m.aeP(),m.ak5(),m.aeX(),m.acp(),m.akC(),m.akA(),m.aeE(),B.K(l,B.f(B.a([B.n("Sobre a consulta",l,l,B.k().$1$textStyle(A.ff),l)],r),A.q,l,A.b9,A.o),A.E,l,l,l,l,l,l,A.vk,l,l,l),m.aha(),m.ajb(),m.aj3(),A.b0D,B.n("v. 1.1.16",l,l,B.k().$1$textStyle(A.tj),l),A.hq],r),A.q,A.r,A.o),m.e,l),1),B.K(l,B.M(B.a([B.CF(B.f(B.a([B.n("Powered by",l,l,B.k().$1$textStyle(A.b3_),l),A.A,B.M(B.a([B.ao("assets/icon/Logo.png",l,20)],r),A.q,A.bu,A.o)],r),A.q,l,A.bu,A.o),40,l),B.CF(B.f(B.a([B.K(l,l,A.E,l,l,A.oe,l,6,l,l,l,l,200)],r),A.q,l,A.bu,A.o),20,l)],r),A.q,A.r,A.o),A.E,A.P,l,l,l,l,l,l,l,l,l)],r),A.q,A.r,A.o)
 k=r
 return B.hv(A.ah,k)},
 aj3(){var s=null,r=B.a([new B.dG(1,A.bU,B.aW(A.n.ak(25.5),0,0,0),A.ce,1)],t.V),q=B.dr(10)
@@ -52800,7 +52800,7 @@ s=23
 return B.O(o.bt("assets/icon/profile-tick(1).png",u.n),$async$by)
 case 23:b3=g1
 s=24
-return B.O(o.bt("assets/icon/Logo4X.png","https://www.datasintese.com/file/icon/icon/Logo4X.png"),$async$by)
+return B.O(o.bt("assets/icon/Logo4X.png","https://www.datasintese.com/file/icon/icon/Logo4x.png"),$async$by)
 case 24:b4=g1
 s=25
 return B.O(o.bt("assets/icon/security-card(1).png","https://www.datasintese.com/file/icon/icon/security-card(1).png"),$async$by)
